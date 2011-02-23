@@ -22,4 +22,7 @@ echo "hello world";
 
 //Show directory list
 echo getcwd();
+
+
+echo "edited";
 ?>
